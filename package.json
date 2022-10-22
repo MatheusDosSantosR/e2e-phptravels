@@ -1,0 +1,23 @@
+{
+    "name": "e2e-phptravels",
+    "version": "1.0.0",
+    "description": "automation test demo phptravels",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "cypress:open": "cypress open"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MatheusDosSantosR/e2e-phptravels.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MatheusDosSantosR/e2e-phptravels/issues"
+    },
+    "homepage": "https://github.com/MatheusDosSantosR/e2e-phptravels#readme",
+    "devDependencies": {
+        "cypress": "^10.10.0"
+    }
+}
